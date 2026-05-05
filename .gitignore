@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+__pycache__/
+wlm_users.txt
+.vapor_session
+.vapor_followed_news
